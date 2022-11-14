@@ -21,6 +21,8 @@ section{
     text-align: center;
     margin: 0 auto;
     width: 70%;
+    height: 100vh;
+    padding: 4rem;
   
 
     
@@ -28,12 +30,15 @@ section{
 }
 .container{
  width: 30%;
+ 
+
 }
 a{
     text-decoration: none;
 }
 ul{
     list-style:none}
+
     .airtable{
     display: flex;
     justify-content: center;
